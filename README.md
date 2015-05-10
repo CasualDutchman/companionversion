@@ -1,4 +1,4 @@
-# companionversion
+# companion version
 The versions of minecraft and the companion mod check txt's.
 
 the first folderis the version of minecraft.
